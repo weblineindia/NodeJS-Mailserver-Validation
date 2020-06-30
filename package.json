@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-weblineindia-mailserver-validation",
+  "version": "1.0.0",
+  "description": "A NodeJS mailserver component used to validate mail server for incoming and outgoing mails.",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "repository": "https://github.com/weblineindia/NodeJS-DNS-Validation",
+  "author": "Weblineindia",
+  "main": "index.js",
+  "keywords": [
+    "nodejs-weblineindia-mailserver-validation",
+    "nodejs-mailserver-validation",
+    "mailserver-validation",
+    "mailserver",
+    "nodejs",
+    "node-component",
+    "nodecomponent",
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mailx": "0.0.11"
+  }
+}
